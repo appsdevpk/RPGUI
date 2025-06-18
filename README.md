@@ -1,24 +1,11 @@
 # RPGUI
 Lightweight framework for old-school RPG GUI in web!
 
-[Live examples here](http://ronenness.github.io/RPGUI/)
 
-## Table of Contents
-
-- [What is it?](#what-is-it)
-- [Key Features](#key-features)
-- [How to use](#how-to-use)
-- [Angular users](#angular-users)
-- [How to tweak](#how-to-tweak)
-- [License](#license)
-- [Contact Me](#contact-me)
 
 ## What is it?
 This framework provide out-of-the-box GUI for web games with old-school RPG style.
 Once including this lib all you need to do is start adding regular html elements with RPGUI classes, and RPGUI will do all the rest!
-
-![alt tag](https://raw.githubusercontent.com/RonenNess/RPGUI/master/screenshot.jpg)
-(Image is slightly outdated.)
 
 ## Key Features
 The following are the key features of RPGUI:
@@ -506,8 +493,3 @@ node_modules\.bin\gulp dist
 
 RPGUI is distributed under the zlib-license, and is absolutely free for use in any purpose (personal, educational, commercial, etc..).
 See LICENSE.txt for more info.
-
-## Contact Me
-
-For issues / bugs use the Report Issue button.
-For anything else, feel free to contact me: ronenness@gmail.com.
